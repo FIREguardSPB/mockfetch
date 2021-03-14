@@ -4,7 +4,7 @@
     "firstName": "string",
     "lastName": "string",
     "email": "string",
-    "phone": "bigInt",
+    "phone": "int",
     "address": "string",
     "views": "int",
     "published": "boolean",
