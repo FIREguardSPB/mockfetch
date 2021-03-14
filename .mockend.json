@@ -1,9 +1,14 @@
 {
   "Post": {
     "title": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "phone": "number",
+    "address": "string",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "message": "string"
+    "description": "string"
   }
 }
