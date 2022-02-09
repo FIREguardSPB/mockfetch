@@ -4,11 +4,11 @@
     "firstName": {"string":{}},
     "lastName": {"string":{}},
     "email": {"string":{}},
-    "phone": {"int":{}},
+    "phone": {"string":{}},
     "address": {"string":{}},
-    "views": {"int":{}},
-    "published": {"boolean":{}},
-    "createdAt": {"date":{}},
+    "views": {"string":{}},
+    "published": {"string":{}},
+    "createdAt": {"string":{}},
     "description": {"string":{}}
   }
 }
